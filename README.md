@@ -35,14 +35,11 @@ MoTiCPS introduces a novel approach for task scheduling and resource allocation 
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/yourusername/MoTiCPS.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd MoTiCPS
-   ```
+
 
 You can adjust the configurations in the JSON file to change the parameters such as the number of tasks, fog nodes, energy settings, etc.
 
