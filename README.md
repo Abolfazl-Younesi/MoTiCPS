@@ -65,8 +65,5 @@ If you use this code or any part of this work, please cite the original paper:
 
 ## Contact
 
-If you have any inquiries, don't hesitate to get in touch with the corresponding author, Mohsen Ansari, at [ansari@sharif.edu](mailto:ansari@sharif.edu) or Abolfazl Younesi [abolfazl.yunesi@sharif.edu](mailto:abolfazl.yunesi@sharif.edu).
+If you have any inquiries, don't hesitate to contact Mohsen Ansari at [ansari@sharif.edu](mailto:ansari@sharif.edu) or Abolfazl Younesi  at [abolfazl.yunesi@sharif.edu](mailto:abolfazl.yunesi@sharif.edu).
 
----
-
-You can customize the content as needed and ensure all links and paths are correct according to your project's structure.
