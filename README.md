@@ -1,13 +1,19 @@
 # MoTiCPS: Energy Optimization on Multi-Objective Task Scheduling in IoT Integrated Cyber Physical Systems
 
-African Vulture Optimization Algorithm implemented in Java and used as the task scheduler of the iFogsim.</br>
+Osprey Optimization Algorithm was implemented in Java and used as the task scheduler for iFogsim.</br>
 
 
 ## Metaheuristics
-1. African Vultures Optimization Algorithm (AVOA): A new nature-inspired metaheuristic algorithm for global optimization problems. </br>
+1. Osprey Optimization Algorithm (OOA): A new bio-inspired metaheuristic algorithm for solving engineering optimization problems </br>
+   Mohammad Dehghani and Pavel Trojovský https://doi.org/10.3389/fmech.2022.1126450 </br> 
+   Matlab implementation: https://www.mathworks.com/matlabcentral/fileexchange/124555-osprey-optimization-algorithm </br>
+2. African Vultures Optimization Algorithm (AVOA): A new nature-inspired metaheuristic algorithm for global optimization problems. </br>
    Benyamin Abdollahzadeh, Farhad Soleimanian Gharehchopogh, Seyedali Mirjalili https://doi.org/10.1016/j.cie.2021.107408 </br>
    Matlab implementation: https://www.mathworks.com/matlabcentral/fileexchange/94820-african-vultures-optimization-algorithm
-To create a README file for your GitHub repository based on the paper titled "MoTiCPS: Energy Optimization on Multi-Objective Task Scheduling in IoT-Integrated Cyber-Physical Systems," here is a draft that you can use:
+3. Golden Eagle Optimizer (GEO): A nature-inspired metaheuristic algorithm. </br>
+   Abdolkarim Mohammadi-Balani, Mahmoud Dehghan Nayeri, Adel Azar, Mohammadreza Taghizadeh-Yazdi https://doi.org/10.1016/j.cie.2020.107050 </br>
+   Matlab implementation: https://www.mathworks.com/matlabcentral/fileexchange/84430-golden-eagle-optimizer-toolbox
+
 
 
 ## Overview
