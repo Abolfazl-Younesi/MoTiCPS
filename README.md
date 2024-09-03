@@ -17,9 +17,9 @@ Osprey Optimization Algorithm was implemented in Java and used as the task sched
 
 
 ## Overview
-
+<!--
 This repository contains the implementation and associated resources for the paper **"MoTiCPS: Energy Optimization on Multi-Objective Task Scheduling in IoT-Integrated Cyber-Physical Systems"** by Abolfazl Younesi, Elyas Oustad, Mohsen Ansari, Mohammad Abolnejadian, and Alireza Ejlali, published in *IEEE Transactions on Sustainable Computing* in August 2024.
-
+-->
 MoTiCPS introduces a novel approach for task scheduling and resource allocation in fog computing environments, designed explicitly for IoT-integrated cyber-physical systems (CPS). The method leverages the Osprey Optimization Algorithm (OOA) to improve task reliability, balance resource use across edge devices, and optimize the performance of fog nodes under real-time constraints.
 
 ## Key Features
