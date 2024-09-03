@@ -43,7 +43,7 @@ Clone the repository:
 
 You can adjust the configurations in the JSON file to change the parameters such as the number of tasks, fog nodes, energy settings, etc.
 
-
+<!--
 ## Citation
 
 If you use this code or any part of this work, please cite the original paper:
@@ -60,7 +60,7 @@ If you use this code or any part of this work, please cite the original paper:
   doi={10.1109/TSUSC.2024.XXXXXXX}
 }
 ```
-
+-->
 
 
 ## Contact
