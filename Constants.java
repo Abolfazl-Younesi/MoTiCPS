@@ -3,7 +3,7 @@ package utils;
 import java.util.Arrays;
 
 public class Constants {
-    public static int NO_OF_TASKS = 200; // number of Cloudlets vary from 50, 100, 200
+    public static int NO_OF_TASKS = 200; // number of tasks vary from 50, 100, 200
     public static int NO_OF_DATA_CENTERS = 20; // number of Datacenters;
 
     public static String baseDir = ".";
