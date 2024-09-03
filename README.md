@@ -1,6 +1,5 @@
 # MoTiCPS: Energy Optimization on Multi-Objective Task Scheduling in IoT Integrated Cyber Physical Systems
 
-## Metaheuristics.AVOA-Metaheuristics.GEO-Scheduling-Cloudsim
 African Vulture Optimization Algorithm implemented in Java and used as the task scheduler of the iFogsim.</br>
 
 
