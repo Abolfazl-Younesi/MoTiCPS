@@ -31,7 +31,7 @@ MoTiCPS introduces a novel approach for task scheduling and resource allocation 
 
 
 ## Requirements
-- **iFogSim**: Some simulations may require the iFogSim simulator for fog computing, a Java-based tool.
+- **iFogSim**: simulations may require the iFogSim simulator for fog computing, a Java-based tool.
 
 ## Installation
 
