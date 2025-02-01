@@ -43,24 +43,22 @@ Clone the repository:
 
 You can adjust the configurations in the JSON file to change the parameters such as the number of tasks, fog nodes, energy settings, etc.
 
-<!--
+
 ## Citation
 
-If you use this code or any part of this work, please cite the original paper:
-
+If you use this code or any part of this work, please cite the following paper:
 ```
-@article{Younesi2024MoTiCPS,
-  title={MoTiCPS: Energy Optimization on Multi-Objective Task Scheduling in IoT-Integrated Cyber-Physical Systems},
-  author={Abolfazl Younesi and Elyas Oustad and Mohsen Ansari and Mohammad Abolnejadian and Alireza Ejlali},
-  journal={IEEE Transactions on Sustainable Computing},
-  year={2024},
-  volume={X},
-  number={X},
-  pages={1-10},
-  doi={10.1109/TSUSC.2024.XXXXXXX}
-}
+@ARTICLE{10820033,
+  author={Younesi, Abolfazl and Oustad, Elyas and Abolnejadian, Mohammad and Ansari, Mohsen and Ejlali, Alireza},
+  journal={IEEE Transactions on Sustainable Computing}, 
+  title={MoTiCPS: Energy Optimization on Multi-Objective Task Scheduling in IoT-Integrated Cyber-Physical Systems}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Reliability;Optimization;Edge computing;Job shop scheduling;Energy consumption;Servers;Resource management;Performance evaluation;Real-time systems;Computational modeling;Cyber-Physical systems;IoT;metaheuristic;osprey optimization algorithm;reliability;task scheduling},
+  doi={10.1109/TSUSC.2024.3525090}
 ```
--->
 
 
 ## Contact
